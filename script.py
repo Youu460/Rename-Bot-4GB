@@ -20,10 +20,10 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/Leomc_bot'>LEO MC</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Leomc_bot'>LEO MC</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Leomc_bot"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
@@ -52,7 +52,7 @@ For Example :-
 
 <code>By @Madflix_Bots</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Leomc_bot
 """
 
 
